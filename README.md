@@ -1,5 +1,10 @@
 # REVA-HACK
 
+To open the frontend 
+1) open frontendfolder
+2) go to hack-html
+3) go to chef.html
+
 # Team Information
 Team Name: TRI TECH TRIO
 Team Lead: B.M Devika Varma
